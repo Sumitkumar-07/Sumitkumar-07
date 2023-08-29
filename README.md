@@ -1,7 +1,6 @@
 ### Hello github community 👋
 # 💫 About Me:
-🔭 I’m currently working on: YouTube Data Harvesting and Warehousing<br> using SQL, MongoDB and Streamlit.<br><br>👯 I’m looking to collaborate on: Open-source projects related to data visualization, Data analysis projects and<br> gain practical experience and learn from others in the data science community. <br><br>🤝 I’m looking for help with: Understanding and implementing deep learning models, particularly in the field of natural language processing (NLP).<br><br>🌱 I’m currently learning: Student at IITM incubated Guvi's program (Masters of Data science)<br><br>💬 Ask me about: My experience with Python for data manipulation, statistical analysis, and machine learning, or any questions related to data science concepts and tools.<br><br>⚡ Fun fact: I love to work on different Projects.
-
+I am a dedicated and enthusiastic student in the realm of data science, wholeheartedly pursuing opportunities within this dynamic field. My journey includes hands-on experience gained from immersive virtual internships, further bolstered by relevant certifications that validate my skill set. I am fueled by the excitement of contributing my analytical insights and innovative solutions to a team that thrives on data-driven decision-making. With a strong foundation and an unquenchable curiosity, I am committed to continuous learning and growth in the world of data science. I eagerly anticipate the chance to collaborate and make meaningful contributions to the data-focused landscape.
 <p align="center">
   <img alt="Coder GIF" height="350" width="550" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 </p>
